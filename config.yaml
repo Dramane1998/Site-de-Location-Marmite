@@ -3,7 +3,7 @@ languageCode: en-US
 title: Location de Marmites et couverts
 theme: hugo-lithium
 ignoreFiles:
-  - \.Rmd$
+  - \.Rmd$ 
   - \.Rmarkdown$
   - _cache$
 permalinks:
