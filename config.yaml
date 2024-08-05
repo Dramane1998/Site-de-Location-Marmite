@@ -11,7 +11,7 @@ permalinks:
 menu:
   main:
     - name: About
-      url: /about/
+      url: /about/ 
     - name: Instagram
       url: https://www.instagram.com/dfra_location_/profilecard/?igsh=cDY1dTFjMXZuMGZi
     - name: Snapchat
