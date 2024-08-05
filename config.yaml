@@ -10,18 +10,14 @@ permalinks:
   post: /:year/:month/:day/:slug/
 menu:
   main:
-    - name: Nous contacter
-      url: /about/ +15144310672 / +15145827532
     - name: About
       url: /about/ 
     - name: Instagram
       url: https://www.instagram.com/dfra_location_/profilecard/?igsh=cDY1dTFjMXZuMGZi
     - name: Snapchat
       url: https://snapchat.com/t/MZpzmmCh
-      url: https://snapchat.com/t/vHb9NWZq
     - name: FacebookMarket
       url: https://www.facebook.com/marketplace/item/1750077072428266/?mibextid=6ojiHh
-      url: https://www.facebook.com/share/hn67jBBLFAJKCd2K/?mibextid=79PoIi
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
@@ -32,11 +28,11 @@ params:
     - r
     - yaml
   highlightjsTheme: github
-  highlightjsVersion: 9.12.0
+  highlightjsVersion: 9.12.0 
   logo:
     alt: Logo
     height: 50
-    url: C:\Users\15145\OneDrive - Universite de Montreal\Images\Captures d’écran\Capture d’écran 2024-07-15 004548.png
+    url: Logo.png
     width: 50
 markup:
   defaultMarkdownHandler: goldmark
