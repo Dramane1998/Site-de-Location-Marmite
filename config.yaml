@@ -32,7 +32,11 @@ params:
   logo:
     alt: Logo
     height: 50
+<<<<<<< HEAD
     url: Logo.png
+=======
+    url: https://m.media-amazon.com/images/I/61kc+WZpiVL._AC_SX679_.jpg 
+>>>>>>> 2eda400a69b66658d68de00d279a3cd67f15a1f2
     width: 50
 markup:
   defaultMarkdownHandler: goldmark

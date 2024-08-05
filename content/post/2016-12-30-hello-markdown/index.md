@@ -1,6 +1,5 @@
 ---
 date: "2024-08-05T21:49:57-07:00" 
-title: Nos conditions de location
 ---
 Les locations sont d'une durée de 24h.
 
